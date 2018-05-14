@@ -23,7 +23,7 @@ ___
 
 <!--这是注释，不显示在页面 -->
 
-<p align="center"><img src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=862591842,2864954084&fm=27&gp=0.jpg"></p>
+<p align="center"><img src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=862591842,2864954084&fm=27&gp=0"></p>
 
 ##  表格 demo
 
