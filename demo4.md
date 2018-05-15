@@ -25,10 +25,10 @@
 基本图片:
 
     ![alt](URL text)
-![](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=862591842,2864954084&fm=27&gp=0)
+![](https://gdp.alicdn.com/imgextra/i3/263817957/TB2oJU9oxHI8KJjy1zbXXaxdpXa-263817957.jpg)
 
 图片链接  
-[![](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=862591842,2864954084&fm=27&gp=0)](http://www.baidu.com)  
+[![](https://gdp.alicdn.com/imgextra/i3/263817957/TB2oJU9oxHI8KJjy1zbXXaxdpXa-263817957.jpg)](http://www.baidu.com)  
 
 引用图片链接  
 [![][baidu_logo]][baidu]
@@ -43,10 +43,9 @@ low:
 [百度]  
 [百度网站]
 
-
 <!-- 本文中的链接 -->
 [baidu]: http://www.baidu.com
-[baidu_logo]: 	https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=862591842,2864954084&fm=27&gp=0
+[baidu_logo]: 	https://gdp.alicdn.com/imgextra/i3/263817957/TB2oJU9oxHI8KJjy1zbXXaxdpXa-263817957.jpg
 [百度]: http://www.baidu.com
 [百度网站]: http://www.baidu.com
 
