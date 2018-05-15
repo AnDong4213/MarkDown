@@ -35,6 +35,17 @@ ___
 
 ##  GFM demo
 
+Github Flvored MarkDown, GFM
+
+task list
+
+- [x] task1
+- [ ] task2
+- [x] task3
+
+emoji 表情符号
+
+:bowtie:
 
 <!--这是链接注释，不显示在页面 -->
 
